@@ -1,2 +1,2 @@
 print ("Hiiiiiii, My First Printt Msg") 
-print ("Hiiiiiii, My Second Print Msg") 
+print ("Hiiiii, My Second Print Msg") 
